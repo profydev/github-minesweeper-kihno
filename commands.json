@@ -11,6 +11,7 @@
     "clear C6",
     "flag A6",
     "clear B6",
-    "unflag B6"
+    "unflag B6",
+    "clear B6"
   ]
 }
